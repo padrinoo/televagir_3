@@ -234,7 +234,7 @@ function create_config( )
     "tagall",
     
     },
-    sudo_users = {174977552},--Sudo users
+    sudo_users = {156218623},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[infernalTG  v2 - Open Source
